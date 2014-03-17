@@ -1,0 +1,14 @@
+#logo{
+	background: #f8b133;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	z-index: 1;
+}
+#logo img{
+	width: 107px;
+	margin: 45px 0 0 46px;
+}
+.title{
+	text-align: center;
+}
